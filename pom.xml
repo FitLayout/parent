@@ -84,6 +84,7 @@
 					<version>2.5.2</version>
 					<configuration>
 						<autoVersionSubmodules>true</autoVersionSubmodules>
+						<commitByProject>true</commitByProject>
 						<useReleaseProfile>false</useReleaseProfile>
 						<releaseProfiles>release</releaseProfiles>
 						<goals>deploy</goals>
