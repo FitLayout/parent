@@ -6,7 +6,7 @@
 	
 	<groupId>cz.vutbr.fit.layout</groupId>
 	<artifactId>parent</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	
 	<name>FitLayout parent POM</name>
@@ -43,14 +43,14 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     
-    <modules>
+    <!-- <modules>
     	<module>../api</module>
     	<module>../layout-cssbox</module>
     	<module>../segmentation</module>
     	<module>../classify</module>
     	<module>../layoutStorage</module>
     	<module>../tools</module>
-    </modules>
+    </modules>  --> 
 
 	<build>
 		<plugins>
