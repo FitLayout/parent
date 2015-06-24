@@ -107,6 +107,31 @@
 			    <artifactId>logback-classic</artifactId>
 			    <version>1.1.2</version>
 			</dependency>
+			<dependency>
+			    <groupId>cz.vutbr.fit.layout</groupId>
+			    <artifactId>layout-api</artifactId>
+			    <version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>cz.vutbr.fit.layout</groupId>
+				<artifactId>layout-cssbox</artifactId>
+			    <version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>cz.vutbr.fit.layout</groupId>
+				<artifactId>layout-segmentation</artifactId>
+			    <version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>cz.vutbr.fit.layout</groupId>
+				<artifactId>layout-classify</artifactId>
+			    <version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>cz.vutbr.fit.layout</groupId>
+				<artifactId>layout-storage</artifactId>
+			    <version>${project.version}</version>
+			</dependency>
 		</dependencies>
 	</dependencyManagement>
 
