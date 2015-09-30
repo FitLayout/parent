@@ -124,6 +124,11 @@
 			</dependency>
 			<dependency>
 				<groupId>cz.vutbr.fit.layout</groupId>
+				<artifactId>layout-logical</artifactId>
+			    <version>${project.version}</version>
+			</dependency>
+			<dependency>
+				<groupId>cz.vutbr.fit.layout</groupId>
 				<artifactId>layout-classify</artifactId>
 			    <version>${project.version}</version>
 			</dependency>
