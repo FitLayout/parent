@@ -134,7 +134,7 @@
 			</dependency>
 			<dependency>
 				<groupId>cz.vutbr.fit.layout</groupId>
-				<artifactId>layout-storage</artifactId>
+				<artifactId>layout-storage-rdf</artifactId>
 			    <version>${project.version}</version>
 			</dependency>
 		</dependencies>
