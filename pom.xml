@@ -6,7 +6,7 @@
 	
 	<groupId>cz.vutbr.fit.layout</groupId>
 	<artifactId>parent</artifactId>
-	<version>0.0.4-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<packaging>pom</packaging>
 	
 	<name>FitLayout parent POM</name>
@@ -36,7 +36,7 @@
 		<url>https://github.com/FitLayout/parent</url>
 		<connection>scm:git:git@github.com:FitLayout/parent.git</connection>
 		<developerConnection>scm:git:git@github.com:FitLayout/parent.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>parent-0.0.4</tag>
     </scm>
 	
     <properties>
